@@ -1,5 +1,6 @@
 # overview
-example gas OpenAI ChatBot
+inquiry automatic reply chatwork chatbot.
+(automatically generates answers using OpenAI)
 
 # example demo image
 
