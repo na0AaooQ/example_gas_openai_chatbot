@@ -2,7 +2,7 @@
 inquiry automatic reply chatwork chatbot.
 (automatically generates answers using OpenAI)
 
-# example demo image
+# demo image
 
 <img width="1465" alt="スクリーンショット 2024-07-21 16 46 41" src="https://github.com/user-attachments/assets/1197432d-d321-40d8-98bd-1d4ffa882884">
 
